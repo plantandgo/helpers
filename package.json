@@ -1,0 +1,25 @@
+{
+  "name": "@plantandgo/helpers",
+  "version": "1.0.1",
+  "description": "plant and go helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plantandgo/helpers.git"
+  },
+  "keywords": [
+    "plant",
+    "and",
+    "go",
+    "helpers"
+  ],
+  "author": "plantandgo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plantandgo/helpers/issues"
+  },
+  "homepage": "https://github.com/plantandgo/helpers#readme"
+}
