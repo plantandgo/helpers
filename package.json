@@ -1,8 +1,8 @@
 {
   "name": "@plantandgo/helpers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "plant and go helpers",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
